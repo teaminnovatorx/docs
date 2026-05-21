@@ -1,6 +1,6 @@
-# TeamInnovatorX Docs
+# Team InnovatorX Docs
 
-Documentation hub for TeamInnovatorX — synced with HackMD.
+Documentation hub for Team InnovatorX — synced with HackMD.
 
 ## Structure
 
